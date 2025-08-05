@@ -25,9 +25,9 @@ We welcome contributions from the community! Check out our repositories and feel
 - 🔧 Submit pull requests
 - 📖 Improve documentation
 
-## 📊 Stats
+## 📊 Our Projects
 
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=rgcs-trial&show_icons=true&theme=radical)
+Explore our repositories and discover the innovative solutions we're building together!
 
 ---
 
